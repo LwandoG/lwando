@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lwando/precache-manifest.c1d6f6d55303ab9c3fd76e3b0d86ebb2.js"
+  "/lwando/precache-manifest.a6f6ec2af7909e2402f159c3447258af.js"
 );
 
 self.addEventListener('message', (event) => {
