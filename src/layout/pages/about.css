@@ -1,0 +1,31 @@
+.container-about {
+    background-color: #879100;
+    background-image: url("textured-paper.png");
+    min-width: 50vh;
+    min-height: 100vh;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: large;
+    justify-content: space-evenly;
+}
+
+.self {
+    background-color: #879100;
+    background-image: url("textured-paper.png");
+    position: sticky;
+    margin-left: 0em;
+    margin-top: 0em;
+    width: "40px";
+    height: "60px";
+}
+.bio {
+    background-color: #879100;
+    background-image: url("textured-paper.png");
+    position: sticky;
+    margin-right: 0em;
+    margin-top: 0em;
+    width: "40px";
+    height: "60px";
+
+}

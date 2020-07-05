@@ -1,0 +1,17 @@
+.welcome-msg {
+    background-color: darkgrey;
+    object-fit: contain;
+    display: inline-block;
+    min-height: 95vh;
+    width: 100%;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
