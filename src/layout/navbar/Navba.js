@@ -15,16 +15,16 @@ const Navba = () => {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav mr-auto">
                 <li className="nav-item">
-                <Nav.Link href="/">Home</Nav.Link>
+                <Nav.Link href="/lwando">Home</Nav.Link>
                 </li>
                 <li className="nav-item">
-                  <Nav.Link className="nav-link" href="/About"><i className="fa fa-user-circle-o" aria-hidden="true">user</i>About Me</Nav.Link>
+                  <Nav.Link className="nav-link" href="/lwando/About"><i className="fa fa-user-circle-o" aria-hidden="true">user</i>About Me</Nav.Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">Portfolio</a>
+                  <a className="nav-link" href="/lwando">Portfolio</a>
                 </li>
                 <li className="nav-item">
-                  <Nav.Link href="/Testimonials">Testimonials</Nav.Link>
+                  <Nav.Link href="/lwando/Testimonials">Testimonials</Nav.Link>
                 </li>
                 <li className="nav-item dropdown">
                   <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -38,7 +38,7 @@ const Navba = () => {
                   </div>
                 </li>
                 <li className="nav-item">
-                  <Nav.Link href="/ContactPage" className="nav-link" ><i className="fa fa-envelope" aria-hidden="true"></i>Contact Me</Nav.Link>
+                  <Nav.Link href="/lwando/ContactPage" className="nav-link" ><i className="fa fa-envelope" aria-hidden="true"></i>Contact Me</Nav.Link>
                 </li>
               </ul>
            </div>

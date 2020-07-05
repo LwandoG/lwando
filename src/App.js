@@ -15,18 +15,18 @@ const App = () => {
       <Fragment>
         <Navbar />
           <Switch>
-            <Route exact path = '/' render={props => (
+            <Route exact path = '/lwando' render={props => (
               <WelcomeMessage />
             )} />
-            <Route exact path = '/ContactPage' render={props => (
+            <Route exact path = '/lwando/ContactPage' render={props => (
               <ContactForm />
             )
          } />
-         <Route exact path = '/Testimonials' render={props => (
+         <Route exact path = '/lwando/Testimonials' render={props => (
               <Testimonials />
             )
          } />
-         <Route exact path = '/About' render={props => (
+         <Route exact path = '/lwando/About' render={props => (
               <About />
             )
          } />
