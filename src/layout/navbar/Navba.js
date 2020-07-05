@@ -21,7 +21,7 @@ const Navba = () => {
                   <Nav.Link className="nav-link" href="/lwando/About"><i className="fa fa-user-circle-o" aria-hidden="true">user</i>About Me</Nav.Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/lwando">Portfolio</a>
+                  <a className="nav-link" href="lwando">Portfolio</a>
                 </li>
                 <li className="nav-item">
                   <Nav.Link href="/lwando/Testimonials">Testimonials</Nav.Link>
