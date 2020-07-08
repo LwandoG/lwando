@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7709796775d9bd7c6d5322d28de999a3",
+    "revision": "0420fdce7f52d13ad594fd35acf67dc2",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "cad8f545179c1f196cf8",
-    "url": "/static/css/main.dae34b33.chunk.css"
+    "revision": "e23203a4bc3ecd945b32",
+    "url": "/static/css/main.3c9341b5.chunk.css"
   },
   {
     "revision": "70cf566724270d2cd4ec",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d4d63348.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cad8f545179c1f196cf8",
-    "url": "/static/js/main.ed748c49.chunk.js"
+    "revision": "e23203a4bc3ecd945b32",
+    "url": "/static/js/main.18c5d3c5.chunk.js"
   },
   {
     "revision": "15fd58eafa92c84010d6",
     "url": "/static/js/runtime-main.fca93877.js"
+  },
+  {
+    "revision": "35e46f85de3c4b3859850a322f00eca2",
+    "url": "/static/media/black-laptop.35e46f85.jpg"
   },
   {
     "revision": "62e8f28f4d747b38a5fbd7abd827b7e5",
