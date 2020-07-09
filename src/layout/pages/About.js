@@ -7,9 +7,9 @@ const About = () => {
         <div className='container-about'>
             <legend style={{marginLeft: '60vh'}}><h1>About Me</h1></legend>
             <div className="row">
-                <div className="col-sm">
+                <div className="col-sm bio">
                 <Card className='self'>
-                <Card.Img variant="top-right" style={{height:'400px', width:'300px', borderRadius:'75%', left:0}} src={require('./lwando.jpg')} />
+                <Card.Img variant="right" style={{height:'400px', width:'300px', borderRadius:'75%', right:0}} src={require('./lwando.jpg')} />
                 <Card.Body>
                     <Card.Title>
                         <b>Lwando Gqobho</b> <br/>
@@ -31,7 +31,11 @@ const About = () => {
                                 </li>
                                 <li className="form-group">
                                     <label htmlFor="specialties">Specialties: </label>
-                                    <label id="specialties">Backend Development, Algorithms Database Design & Administration</label> 
+                                    <label id="specialties">Backend Development, Algorithms, Database Design & Administration</label> 
+                                </li>
+                                <li className="form-group">
+                                    <label htmlFor="fun">Fun fact: </label>
+                                    <label id="fun">Allergic to illogical code.</label> 
                                 </li>
                             </ul>
                     
@@ -40,27 +44,71 @@ const About = () => {
             </Card>
 
                 </div>
-                 <div className="bio col-sm">
+                 <div className="bio col-sm" style={{borderStyle: 'round'}}>
                    <p><u><b>Bio</b></u>
                    <br/>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                      <br/>
-                      At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium 
-                      voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati 
-                      cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est 
-                      laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore,
-                       cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, 
-                       omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut 
-                       rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum 
-                       rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis 
-                       doloribus asperiores repellat.
-
+                     I am a web & systems development professional specialising mostly in backend development & database administration.
+                     I was fortunate enough to be able to take Information Technology as a subject in high school, that's where I got exposed to
+                     programming. 
+                      <br/> <br/>
+                     In grade 10 I got to learn algorithms and programming through a program called Scratch. That was when I developed a strong passion
+                     for coding. In the next two grades I learnt  Java. I've been learning more programming concepts at LifeChoices Academy and during my
+                     spare time.
+                     <br/><br/>
+                     Please hit the contact button.
                    </p>
                </div>
             </div>
-            
+            <div className="row">
+                <div className="col-sm bio">
+                    <h3>Coding Artillery</h3>
+                    <label>HTML:</label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style={{width: "65%"}}>65%</div>
+                    </div>
+                    <label>Python:</label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width: "60%"}}>60%</div>
+                    </div>
+                    <label>Java:</label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style={{width: "50%"}}>50%</div>
+                    </div>
+                    <label>JavaScript: </label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style={{width: "45%"}}>45%</div>
+                    </div>
+                    <label>MySQL:</label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style={{width: "40%"}}>40%</div>
+                    </div>
+                    <label>C#:</label>
+                    <div className="progress">
+                      <div className="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style={{width: "30%"}}>30%</div>
+                    </div>
+                </div>
+                <div className="col-sm bio">
+                    <h3>School Info</h3>
+                    <label>Highest Qualification: Grade 12</label><br/>
+                    <label>High School Attended: Centre of Science and Technology</label><br/>
+                    <ul>
+                    <h3 className="mb-1">Subjects</h3>
+                    <li className="list-group-item list-group-item-light">English First Additional Language</li>
+                    <li className="list-group-item list-group-item-light">IsiXhosa Home Language</li>
+                    <li className="list-group-item list-group-item-light">Mathematics</li>
+                    <li className="list-group-item list-group-item-light">Physical Sciences</li>
+                    <li className="list-group-item list-group-item-light">Information Technology</li>
+                    <li className="list-group-item list-group-item-light">Life Sciences</li>
+                    <li className="list-group-item list-group-item-light">Life Orientation</li>
+                    <li className="list-group-item list-group-item-light">Advanced Programme Mathematics</li>
+                    </ul>
+
+                </div>
+            <div className="row">
+            <p className="footer light"><i className="fa fa-copyright" aria-hidden="true"></i>Copyright Lwando Gqobho 2020</p>
+
+            </div>
+        </div>
               
            </div>
     )

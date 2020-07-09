@@ -1,9 +1,21 @@
 .welcome-msg {
-    background-color: darkgrey;
+    background-image: url("brick-wall.png");
     object-fit: contain;
     display: inline-block;
     min-height: 95vh;
     width: 100%;
+    color:"#f0cdee";
+}
+.dope {
+    background-image: url("black-laptop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    display: inline-block;
+    min-height: 95vh;
+    width: 100%;
+    color:"#688a56";
+
 }
 
 .wrapper {
@@ -11,7 +23,7 @@
 }
 
 .footer {
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
 }

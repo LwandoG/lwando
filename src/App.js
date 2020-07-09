@@ -8,32 +8,23 @@ import WelcomeMessage from './layout/landing/WelcomeMessage'
 import ContactForm from './layout/contact/ContactForm'
 import Testimonials from './layout/pages/Testimonials'
 import About from './layout/pages/About'
+import Portfolio from './layout/pages/Portfolio'
 
 const App = () => {
   return (
     <Router>
       <Fragment>
         <Navbar />
-          <Switch>
-            <Route exact path = '/lwando' render={props => (
-              <WelcomeMessage />
-            )} />
-            <Route exact path = '/lwando/ContactPage' render={props => (
-              <ContactForm />
-            )
-         } />
-         <Route exact path = '/lwando/Testimonials' render={props => (
-              <Testimonials />
-            )
-         } />
-         <Route exact path = '/lwando/About' render={props => (
-              <About />
-            )
-         } />
-          </Switch>
-    </Fragment>
+        <Switch>
+          <Route exact path = '/' component={WelcomeMessage} />
+          <Route exact path = '/ContactPage' component={ContactForm} />
+          <Route exact path = '/Testimonials' component={Testimonials} />
+          <Route exact path = '/About' component={About} />
+          <Route exact path = '/Portfolio' component={Portfolio} />
+        </Switch>
+      </Fragment>
     </Router>
   )
-}
+} 
 
 export default App;
