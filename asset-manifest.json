@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/lwando/static/css/main.2ea5eaeb.chunk.css",
-    "main.js": "/lwando/static/js/main.4cf9dea4.chunk.js",
-    "main.js.map": "/lwando/static/js/main.4cf9dea4.chunk.js.map",
+    "main.css": "/lwando/static/css/main.d6a55aa8.chunk.css",
+    "main.js": "/lwando/static/js/main.b74cd346.chunk.js",
+    "main.js.map": "/lwando/static/js/main.b74cd346.chunk.js.map",
     "runtime-main.js": "/lwando/static/js/runtime-main.4c9a0b2f.js",
     "runtime-main.js.map": "/lwando/static/js/runtime-main.4c9a0b2f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/lwando/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e4ff7f69.chunk.js": "/lwando/static/js/2.e4ff7f69.chunk.js",
-    "static/js/2.e4ff7f69.chunk.js.map": "/lwando/static/js/2.e4ff7f69.chunk.js.map",
+    "static/js/2.251cf90a.chunk.js": "/lwando/static/js/2.251cf90a.chunk.js",
+    "static/js/2.251cf90a.chunk.js.map": "/lwando/static/js/2.251cf90a.chunk.js.map",
     "index.html": "/lwando/index.html",
-    "precache-manifest.8a5bd7dc6ced6ba619985159efa604cc.js": "/lwando/precache-manifest.8a5bd7dc6ced6ba619985159efa604cc.js",
+    "precache-manifest.a5a07397fa1e935f4b61d7e623d7dd3a.js": "/lwando/precache-manifest.a5a07397fa1e935f4b61d7e623d7dd3a.js",
     "service-worker.js": "/lwando/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/lwando/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.2ea5eaeb.chunk.css.map": "/lwando/static/css/main.2ea5eaeb.chunk.css.map",
-    "static/js/2.e4ff7f69.chunk.js.LICENSE.txt": "/lwando/static/js/2.e4ff7f69.chunk.js.LICENSE.txt",
+    "static/css/main.d6a55aa8.chunk.css.map": "/lwando/static/css/main.d6a55aa8.chunk.css.map",
+    "static/js/2.251cf90a.chunk.js.LICENSE.txt": "/lwando/static/js/2.251cf90a.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/lwando/static/media/dark-paths.7d917551.png",
     "static/media/welcome.css": "/lwando/static/media/black-laptop.35e46f85.jpg",
     "static/media/githubfinder.png": "/lwando/static/media/githubfinder.62e8f28f.png",
-    "static/media/lwando.jpg": "/lwando/static/media/lwando.d12c46fc.jpg",
-    "static/media/about.css": "/lwando/static/media/textured-paper.ccda9096.png"
+    "static/media/lwando.jpg": "/lwando/static/media/lwando.d12c46fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c9a0b2f.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e4ff7f69.chunk.js",
-    "static/css/main.2ea5eaeb.chunk.css",
-    "static/js/main.4cf9dea4.chunk.js"
+    "static/js/2.251cf90a.chunk.js",
+    "static/css/main.d6a55aa8.chunk.css",
+    "static/js/main.b74cd346.chunk.js"
   ]
 }

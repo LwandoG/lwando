@@ -1,35 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67fccab447e5bd40ffca1b05b9851cf3",
+    "revision": "d66819f27364507cf0ecd3f5c547ff9d",
     "url": "/lwando/index.html"
   },
   {
-    "revision": "c108e681555c8a2b5266",
+    "revision": "52d528fe54485a6ec3e7",
     "url": "/lwando/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "016e3c1469bcb2143541",
-    "url": "/lwando/static/css/main.2ea5eaeb.chunk.css"
+    "revision": "b8d345da1b80c147cb94",
+    "url": "/lwando/static/css/main.d6a55aa8.chunk.css"
   },
   {
-    "revision": "c108e681555c8a2b5266",
-    "url": "/lwando/static/js/2.e4ff7f69.chunk.js"
+    "revision": "52d528fe54485a6ec3e7",
+    "url": "/lwando/static/js/2.251cf90a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/lwando/static/js/2.e4ff7f69.chunk.js.LICENSE.txt"
+    "url": "/lwando/static/js/2.251cf90a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "016e3c1469bcb2143541",
-    "url": "/lwando/static/js/main.4cf9dea4.chunk.js"
+    "revision": "b8d345da1b80c147cb94",
+    "url": "/lwando/static/js/main.b74cd346.chunk.js"
   },
   {
     "revision": "3c234129282ad3c6064d",
     "url": "/lwando/static/js/runtime-main.4c9a0b2f.js"
   },
   {
+    "revision": "ac1839b05d92a3c9818f9063ad10098e",
+    "url": "/lwando/static/media/45-degree-fabric-light.ac1839b0.png"
+  },
+  {
     "revision": "35e46f85de3c4b3859850a322f00eca2",
     "url": "/lwando/static/media/black-laptop.35e46f85.jpg"
+  },
+  {
+    "revision": "7d91755166fd557af35e3dc8a36dad08",
+    "url": "/lwando/static/media/dark-paths.7d917551.png"
   },
   {
     "revision": "62e8f28f4d747b38a5fbd7abd827b7e5",
@@ -38,9 +46,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d12c46fc25f6f8d2a5cc6f75b72058de",
     "url": "/lwando/static/media/lwando.d12c46fc.jpg"
-  },
-  {
-    "revision": "ccda9096011ebf1c58597aa2e57a893f",
-    "url": "/lwando/static/media/textured-paper.ccda9096.png"
   }
 ]);
