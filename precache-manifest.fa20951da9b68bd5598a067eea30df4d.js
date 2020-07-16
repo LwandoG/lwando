@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d66819f27364507cf0ecd3f5c547ff9d",
+    "revision": "7039ca288991416f23ce29e38fd82b24",
     "url": "/lwando/index.html"
   },
   {
-    "revision": "52d528fe54485a6ec3e7",
+    "revision": "80d3106e32b52242977d",
     "url": "/lwando/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "b8d345da1b80c147cb94",
+    "revision": "baf46378c95f7090a0b8",
     "url": "/lwando/static/css/main.d6a55aa8.chunk.css"
   },
   {
-    "revision": "52d528fe54485a6ec3e7",
-    "url": "/lwando/static/js/2.251cf90a.chunk.js"
+    "revision": "80d3106e32b52242977d",
+    "url": "/lwando/static/js/2.d999eed2.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/lwando/static/js/2.251cf90a.chunk.js.LICENSE.txt"
+    "url": "/lwando/static/js/2.d999eed2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8d345da1b80c147cb94",
-    "url": "/lwando/static/js/main.b74cd346.chunk.js"
+    "revision": "baf46378c95f7090a0b8",
+    "url": "/lwando/static/js/main.458352e1.chunk.js"
   },
   {
     "revision": "3c234129282ad3c6064d",
