@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7039ca288991416f23ce29e38fd82b24",
+    "revision": "aed8e87ba8816c894b705bdf78671748",
     "url": "/lwando/index.html"
   },
   {
-    "revision": "80d3106e32b52242977d",
+    "revision": "20307a8a8ac78760513d",
     "url": "/lwando/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "baf46378c95f7090a0b8",
-    "url": "/lwando/static/css/main.d6a55aa8.chunk.css"
+    "revision": "1e6872a322d7e00292a7",
+    "url": "/lwando/static/css/main.8544f67f.chunk.css"
   },
   {
-    "revision": "80d3106e32b52242977d",
-    "url": "/lwando/static/js/2.d999eed2.chunk.js"
+    "revision": "20307a8a8ac78760513d",
+    "url": "/lwando/static/js/2.d8eb1da6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/lwando/static/js/2.d999eed2.chunk.js.LICENSE.txt"
+    "url": "/lwando/static/js/2.d8eb1da6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "baf46378c95f7090a0b8",
-    "url": "/lwando/static/js/main.458352e1.chunk.js"
+    "revision": "1e6872a322d7e00292a7",
+    "url": "/lwando/static/js/main.e6a83bf5.chunk.js"
   },
   {
     "revision": "3c234129282ad3c6064d",
@@ -32,12 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lwando/static/media/45-degree-fabric-light.ac1839b0.png"
   },
   {
-    "revision": "35e46f85de3c4b3859850a322f00eca2",
-    "url": "/lwando/static/media/black-laptop.35e46f85.jpg"
-  },
-  {
-    "revision": "7d91755166fd557af35e3dc8a36dad08",
-    "url": "/lwando/static/media/dark-paths.7d917551.png"
+    "revision": "732bcfacb66e38e1b34416994cca4637",
+    "url": "/lwando/static/media/Pngtree.732bcfac.png"
   },
   {
     "revision": "62e8f28f4d747b38a5fbd7abd827b7e5",
@@ -46,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d12c46fc25f6f8d2a5cc6f75b72058de",
     "url": "/lwando/static/media/lwando.d12c46fc.jpg"
+  },
+  {
+    "revision": "0e557085ab27d0ff0704ead5f364bca9",
+    "url": "/lwando/static/media/water-1828830_1920.0e557085.jpg"
   }
 ]);

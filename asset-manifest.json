@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/lwando/static/css/main.d6a55aa8.chunk.css",
-    "main.js": "/lwando/static/js/main.458352e1.chunk.js",
-    "main.js.map": "/lwando/static/js/main.458352e1.chunk.js.map",
+    "main.css": "/lwando/static/css/main.8544f67f.chunk.css",
+    "main.js": "/lwando/static/js/main.e6a83bf5.chunk.js",
+    "main.js.map": "/lwando/static/js/main.e6a83bf5.chunk.js.map",
     "runtime-main.js": "/lwando/static/js/runtime-main.4c9a0b2f.js",
     "runtime-main.js.map": "/lwando/static/js/runtime-main.4c9a0b2f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/lwando/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d999eed2.chunk.js": "/lwando/static/js/2.d999eed2.chunk.js",
-    "static/js/2.d999eed2.chunk.js.map": "/lwando/static/js/2.d999eed2.chunk.js.map",
+    "static/js/2.d8eb1da6.chunk.js": "/lwando/static/js/2.d8eb1da6.chunk.js",
+    "static/js/2.d8eb1da6.chunk.js.map": "/lwando/static/js/2.d8eb1da6.chunk.js.map",
     "index.html": "/lwando/index.html",
-    "precache-manifest.fa20951da9b68bd5598a067eea30df4d.js": "/lwando/precache-manifest.fa20951da9b68bd5598a067eea30df4d.js",
+    "precache-manifest.14b3619a362b3e12d727dd1eee584d75.js": "/lwando/precache-manifest.14b3619a362b3e12d727dd1eee584d75.js",
     "service-worker.js": "/lwando/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/lwando/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d6a55aa8.chunk.css.map": "/lwando/static/css/main.d6a55aa8.chunk.css.map",
-    "static/js/2.d999eed2.chunk.js.LICENSE.txt": "/lwando/static/js/2.d999eed2.chunk.js.LICENSE.txt",
-    "static/media/about.css": "/lwando/static/media/dark-paths.7d917551.png",
-    "static/media/welcome.css": "/lwando/static/media/black-laptop.35e46f85.jpg",
+    "static/css/main.8544f67f.chunk.css.map": "/lwando/static/css/main.8544f67f.chunk.css.map",
+    "static/js/2.d8eb1da6.chunk.js.LICENSE.txt": "/lwando/static/js/2.d8eb1da6.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/lwando/static/media/Pngtree.732bcfac.png",
     "static/media/githubfinder.png": "/lwando/static/media/githubfinder.62e8f28f.png",
-    "static/media/lwando.jpg": "/lwando/static/media/lwando.d12c46fc.jpg"
+    "static/media/lwando.jpg": "/lwando/static/media/lwando.d12c46fc.jpg",
+    "static/media/welcome.css": "/lwando/static/media/water-1828830_1920.0e557085.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c9a0b2f.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d999eed2.chunk.js",
-    "static/css/main.d6a55aa8.chunk.css",
-    "static/js/main.458352e1.chunk.js"
+    "static/js/2.d8eb1da6.chunk.js",
+    "static/css/main.8544f67f.chunk.css",
+    "static/js/main.e6a83bf5.chunk.js"
   ]
 }
