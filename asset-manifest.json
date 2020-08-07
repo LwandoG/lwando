@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lwando/static/css/main.cfc74a9d.chunk.css",
-    "main.js": "/lwando/static/js/main.463ab7f4.chunk.js",
-    "main.js.map": "/lwando/static/js/main.463ab7f4.chunk.js.map",
+    "main.js": "/lwando/static/js/main.93b6c923.chunk.js",
+    "main.js.map": "/lwando/static/js/main.93b6c923.chunk.js.map",
     "runtime-main.js": "/lwando/static/js/runtime-main.4c9a0b2f.js",
     "runtime-main.js.map": "/lwando/static/js/runtime-main.4c9a0b2f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/lwando/static/css/2.af3c1da9.chunk.css",
     "static/js/2.329e62e6.chunk.js": "/lwando/static/js/2.329e62e6.chunk.js",
     "static/js/2.329e62e6.chunk.js.map": "/lwando/static/js/2.329e62e6.chunk.js.map",
     "index.html": "/lwando/index.html",
-    "precache-manifest.4f7b6c09fc1970f3c895210f26ee47ff.js": "/lwando/precache-manifest.4f7b6c09fc1970f3c895210f26ee47ff.js",
+    "precache-manifest.ad0c24e540a32e2b3f17904a38fe6971.js": "/lwando/precache-manifest.ad0c24e540a32e2b3f17904a38fe6971.js",
     "service-worker.js": "/lwando/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/lwando/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.cfc74a9d.chunk.css.map": "/lwando/static/css/main.cfc74a9d.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.329e62e6.chunk.js",
     "static/css/main.cfc74a9d.chunk.css",
-    "static/js/main.463ab7f4.chunk.js"
+    "static/js/main.93b6c923.chunk.js"
   ]
 }
